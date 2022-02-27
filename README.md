@@ -54,7 +54,8 @@ However, it was noticed, that the schools with less students, showed a better pe
 
 ![this is an images](https://github.com/JJF1962/School_District_Analysis.-/blob/main/Resources/Capture%20Score%20by%20School%20size%202.PNG)
 
-![this is an images](
+![this is an images](![image](https://user-images.githubusercontent.com/97784444/155897307-64cf5bd8-72ff-482c-9ef2-2d7f7556f0f0.png)
+
 
 
  * Scores by School type
