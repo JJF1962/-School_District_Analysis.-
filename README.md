@@ -50,7 +50,7 @@ if we review the data in the figure below, we can conclude that is not related t
  * Scores by School size
 The avergae school size, For the first two rows of the figure below, shown the good overall passing performance for  the students of the small(90%) and mediam schools (91%), however for the largest school the overall passing drop to 58%  
 
-![this is an images]()
+![this is an images](https://github.com/JJF1962/School_District_Analysis.-/blob/main/Resources/Capture%20Score%20by%20School%20size%201a.PNG)
 
  * Scores by School type
  The students of the charter have a better performance than the District, overal passing percentage for the Charter is 90% and for the Distrct Schools only 54%, as shown in figure below.
