@@ -14,8 +14,10 @@ It was repeated the School District Analysis as required, the sample of data sho
 
 ![this is an image](https://github.com/JJF1962/School_District_Analysis.-/blob/main/Resources/Capture%20performance%20.PNG)
 
-Before the clean-up the average reading score 81.87% and math 78.98% (as Shown in Figure below), we can said that excersize allow to determine that th reading has a small variance, increase about 0.1%, however the math score showns a substantial increase of 7.84%
+Before the clean-up the average reading score 81.87% and math 78.98% (as Shown in Figure below - source:schools_complete.ipynb), we can said that excersize allow to determine that th reading score has a small variance, increase about 0.1%, however the math score showns a substantial increase of 7.84%
 
+![tis is an image](https://github.com/JJF1962/School_District_Analysis.-/blob/main/Resources/Capture%20before%20clean%20up%20%20%25%20pass.PNG)
+Source:schools_complete.csv.ipynb
 
 
 ### The School Summary
@@ -30,7 +32,7 @@ However, it was noticed, that the schools with less students, showed a better pe
 ![this is an image](https://github.com/JJF1962/School_District_Analysis.-/blob/main/Resources/Capture%20Score%20by%20School%20size%202.PNG)
 
 ### The High and Low performance School
- Aditionally, ith was analized the higest performance and the lowes performance schools, the highest performance schools were Cabrera,Thomas, Griffing, Wilson and Pena         and the lower performace Hhigh schools were Johnson, Hernandez, Huang, Figueroa and Rodriguex as shown in pictures below
+ Aditionally, ith was analized the higest performance and the lowest performance schools, the highest performance schools were Cabrera,Thomas, Griffing, Wilson and Pena         and the lower performace Hhigh schools were Johnson, Hernandez, Huang, Figueroa and Rodriguex as shown in pictures below
 
 ![this is an images](https://github.com/JJF1962/School_District_Analysis.-/blob/main/Resources/Capture%20High%20performance%20schools.PNG)
 
@@ -43,7 +45,11 @@ However, it was noticed, that the schools with less students, showed a better pe
 
  
  * Scores by School Spending
- 
+ The scores in the $630-644 per student spending rage were affected as follows:
+
+% Passing Math dropped from 73% to 67%
+% Passing Reading dropped from 84% to 77%
+% Overall Passing dropped from 63% to 56%
 ![this is an images](https://github.com/JJF1962/School_District_Analysis.-/blob/main/Resources/Capture%20score%20by%20spending%201.PNG)
  
 ![this is an images](
