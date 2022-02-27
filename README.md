@@ -42,7 +42,7 @@ However, it was noticed, that the schools with less students, showed a better pe
 
  
  * Scores by School Spending
-if we review the data in the figure below, we can conclude that is not related the amount spended compared with the score grades, the data of the schools that spent less on their students present highest overall passing percentage (90%) than the other ones. therefore, we can conclude that is not correlation between the amount expend and the students performance.
+if we reviewed the data in the figure below, we can conclude that is not related the amount spended compared with the score grades, the data of the schools that spent less on their students present highest overall passing percentage (90%) than the other ones. therefore, we can conclude that is not correlation between the amount expend and the students performance.
  
 ![this is an images](https://github.com/JJF1962/School_District_Analysis.-/blob/main/Resources/Capture%20Score%20by%20school%20spending%201a.PNG)
  
@@ -53,10 +53,11 @@ The avergae school size, For the first two rows of the figure below, shown the g
 ![this is an images](https://github.com/JJF1962/School_District_Analysis.-/blob/main/Resources/Capture%20Score%20by%20School%20size%201a.PNG)
 
  * Scores by School type
- The students of the charter have a better performance than the District, overal passing percentage for the Charter is 90% and for the Distrct Schools only 54%, as shown in figure below.
+ The students of the charter have a better performance than the District, overall passing percentage for the Charter is 90% and for the Distrct Schools only 54%, as shown in figure below.
  
-![this is an images]()
+![this is an images](https://github.com/JJF1962/School_District_Analysis.-/blob/main/Resources/Capture%20Score%20by%20Schhol%20type%201a.PNG)
  
 
  ## Summary
-
+Based on the small variances, and the no relation between spending and student performance, I'm no recommend to the School District to increase the budget, However I recommend to continue working over the clean data, evaluate why the Charter students has a better performance  than the Distict students and finally evaluate th reasons of the of the overall passing in the largest schools drop to 58%
+I learned a lot during this challenging module and ready to learn more!
