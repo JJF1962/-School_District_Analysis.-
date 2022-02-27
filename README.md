@@ -19,8 +19,9 @@ The results were obtained based in the csv data provided by the School District 
 Aditionally, ith was analized the higest performance and the lowes performance schools, the highest performance schools were Cabrera,Thomas, Griffing, Wilson and Pena         and the lower performace Hhigh schools were Johnson, Hernandez, Huang, Figueroa and Rodriguex as shown in pictures below
 
 
-[this is an inamges](https://github.com/JJF1962/School_District_Analysis.-/blob/main/Resources/Capture%20High%20performance%20schools.PNG)
+[this is an images](https://github.com/JJF1962/School_District_Analysis.-/blob/main/Resources/Capture%20High%20performance%20schools.PNG)
 
+[this is an images](https://github.com/JJF1962/School_District_Analysis.-/blob/main/Resources/Captureless%20performance%20schools.PNG)
 
 
 
