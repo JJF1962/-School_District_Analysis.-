@@ -1,4 +1,4 @@
-# -School_District_Analysis.-
+# School_District_Analysis.
 ##  Overview
 The objective of this School District Analysis is to analize the data available, evaluate the relation between the students performance, focused in math & reading scores, measuring the  overall passing percentages per students again the budgets and/or amount expended by the School District, aditionally the school board, alerted about a presumption of dishonesty, therefore it was required to replace the math and reading scores for Thomas High School with NaNs while keeping the rest of the data intact; with the consequence that was requested to repeat the analysis perfomed in this module and writte a report to describe how these changes afected the overall analysis.
 
@@ -6,13 +6,17 @@ The class objective was to continue using Python and learn to use Pandas, Jupyte
 ##  Results
 The results were obtained based in the csv data provided by the School District in two confidential files named Students_complete.csv and Schhols_complete.csv, that was conformed by  a very large data, and no posibile or convenient to be handled with Excel or VBA, therefore the best option was to apply all to learned in the last two modules of CSV, Python, Jupyter Notebook and others tools required to execute the job. we saved the files with a new extension ipynb, that that constitute a file in a notebook document created by Jupyter Notebook, an interactive computational environment that helps scientists manipulate and analyze data using Python . It contains all the content from a Jupyter Notebook web application session, including computation inputs and outputs, mathematical functions, images, and explanatory text (reference. https://fileinfo.com/extension/ipynb#:~:text=An%20IPYNB%20file%20is%20a%20notebook%20document%20created,and%20outputs%2C%20mathematical%20functions%2C%20images%2C%20and%20explanatory%20text.)
 ### The District Summary
-   * The first analysis, covert to analize and provide a District summary  that consisted into replace the reading and math scores, replacing the 9th grade for reading and math scores at Thomas High School with Nan using the loc method, as shwon in figure below.
+The first analysis, covert to analize and provide a District summary  that consisted into replace the reading and math scores, replacing the 9th grade for reading and math scores at Thomas High School with Nan using the loc method, as shwon in figure below.
   
 ![this is an image](https://github.com/JJF1962/School_District_Analysis.-/blob/main/Resources/Capture%209th%20grade%20with%20NaN.PNG)  
   
-   *  It was repeated the School District Analysis as required, the sample of data shown a total of 15 schools, with a total of 39,170 students, the average math score was 79 and reading 81.9, meaning that 75.5% passed  math, 86.82% passed reading and the overall passing percentage was 65.64% as shown in the figure below.
+It was repeated the School District Analysis as required, the sample of data shown a total of 15 schools, with a total of 39,170 students, the average math score was 79 and reading 81.9, meaning that 75.5% passed  math, 86.82% passed reading and the overall passing percentage was 65.64% as shown in the figure below.
 
 ![this is an image](https://github.com/JJF1962/School_District_Analysis.-/blob/main/Resources/Capture%20performance%20.PNG)
+
+Before the clean-up the average reading score 81.87% and math 78.98% (as Shown in Figure below), we can said that excersize allow to determine that th reading has a small variance, increase about 0.1%, howevwer the math score showns a substantial increase of 7.84%
+
+
 
 ### The School Summary
 Replacing the 9th grader students data in the school summary data frame, the analysis showed that the average math and reading scores not varied and stayed the same, however the overall passing percentage increase from 65.64% to 90.6%  as shown in the step 11 of the charter, as a consequence of the reduction in size of the data sample, causing a positive impact in the schools results, because all the percentages in the total of categories increased as shown in the figures below
@@ -55,7 +59,6 @@ However, it was noticed, that the schools with less students, showed a better pe
  
 ![this is an images](https://github.com/JJF1962/School_District_Analysis.-/blob/main/Resources/Capture%20Score%20by%20School%20type.PNG)
  
-![this is an images](
 
  ## Summary
 
