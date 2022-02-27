@@ -9,7 +9,7 @@ The results were obtained based in the csv data provided by the School District 
 ### The District Summary
 The first analysis, cover  and provide a District summary  that consisted into replace the reading and math scores, replacing the 9th grade for reading and math scores at Thomas High School with Nan using the loc method, as shwon in figure below.
   
-![this is an image](https://github.com/JJF1962/School_District_Analysis.-/blob/main/Resources/Capture%209th%20grade%20with%20NaN.PNG)  
+![this is an image](https://github.com/JJF1962/School_District_Analysis.-/blob/main/Resources/Capture%209th%20grader%20with%20NaN1.PNG)  
   
 It was repeated the School District Analysis as required, the sample of data shown a total of 15 schools, with a total of 39,170 students, the average math score was 79 and reading 81.9, meaning that 75.5% passed  math, 86.82% passed reading and the overall passing percentage was 65.64% as shown in the figure below.
 
