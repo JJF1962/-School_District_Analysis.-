@@ -16,7 +16,11 @@ The results were obtained based in the csv data provided by the School District 
 
 ![this is and images](https://github.com/JJF1962/School_District_Analysis.-/blob/main/Resources/Capture%209th%20graders.PNG)
 
-Aditionally, ith was analized the higest performance and the lowes performance schools, the highest perrworfance schools were        and the lower performace schools were
+Aditionally, ith was analized the higest performance and the lowes performance schools, the highest performance schools were Cabrera,Thomas, Griffing, Wilson and Pena         and the lower performace Hhigh schools were Johnson, Hernandez, Huang, Figueroa and Rodriguex as shown in pictures below
 
 
 [this is an inamges](https://github.com/JJF1962/School_District_Analysis.-/blob/main/Resources/Capture%20High%20performance%20schools.PNG)
+
+
+
+
