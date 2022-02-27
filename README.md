@@ -14,4 +14,8 @@ The results were obtained based in the csv data provided by the School District 
 
  * Secondly, it was performed a study of student score by school type, of course it was considered the honestity issued mentioned before related to Thomas High School, replacing the 9th grader students data in the school summary data frame, the analysis showed that the average math and reading scores not varied and stayed the same, however the overall passing percentage increase from 65% to 90% as a consequence of the reduction in size of the data sample, causing a positive impact in the schools results, because all the percentages in the total of categories increased as shown in the figures below
 
-!
+![this is and images](https://github.com/JJF1962/School_District_Analysis.-/blob/main/Resources/Capture%209th%20graders.PNG)
+
+Aditionally, ith was analized the higest performance and the lowes performance schools, the highest perrworfance schools were        and the lower performace schools were
+
+
