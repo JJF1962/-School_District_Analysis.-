@@ -45,11 +45,7 @@ However, it was noticed, that the schools with less students, showed a better pe
 
  
  * Scores by School Spending
- The scores in the $630-644 per student spending rage were affected as follows:
-
-% Passing Math dropped from 73% to 67%
-% Passing Reading dropped from 84% to 77%
-% Overall Passing dropped from 63% to 56%
+ 
 ![this is an images](https://github.com/JJF1962/School_District_Analysis.-/blob/main/Resources/Capture%20score%20by%20spending%201.PNG)
  
 ![this is an images](
