@@ -14,7 +14,7 @@ It was repeated the School District Analysis as required, the sample of data sho
 
 ![this is an image](https://github.com/JJF1962/School_District_Analysis.-/blob/main/Resources/Capture%20performance%20.PNG)
 
-Before the clean-up the average reading score 81.87% and math 78.98% (as Shown in Figure below), we can said that excersize allow to determine that th reading has a small variance, increase about 0.1%, howevwer the math score showns a substantial increase of 7.84%
+Before the clean-up the average reading score 81.87% and math 78.98% (as Shown in Figure below), we can said that excersize allow to determine that th reading has a small variance, increase about 0.1%, however the math score showns a substantial increase of 7.84%
 
 
 
