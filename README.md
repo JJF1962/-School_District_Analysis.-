@@ -26,7 +26,7 @@ Replacing the 9th grader students data in the school summary data frame, the ana
 
 ![this is and images](https://github.com/JJF1962/School_District_Analysis.-/blob/main/Resources/Capture%20School%20Summary%201a.PNG)
 
-However, it was noticed, that the schools with less students, showed a better performance in every category, the students not only passed math & reading, also they perfomed well in other assignatures as shown in the two pictures below.
+However, it was noticed, that the schools with less students, showed a better performance in every category, the students not only passed math & reading, also they perfomed well in other assignatures.
 
 ### The High and Low performance School
  Aditionally, ith was analized the higest performance and the lowest performance schools, the highest performance schools were Cabrera,Thomas, Griffing, Wilson and Pena         and the lower performace Hhigh schools were Johnson, Hernandez, Huang, Figueroa and Rodriguex as shown in pictures below
@@ -42,7 +42,7 @@ However, it was noticed, that the schools with less students, showed a better pe
 
  
  * Scores by School Spending
-if we reviewed the data in the figure below, we can conclude that is not related the amount spended compared with the score grades, the data of the schools that spent less on their students present highest overall passing percentage (90%) than the other ones. therefore, we can conclude that is not correlation between the amount expend and the students performance.
+As per the information in the figure below, we can conclude that is not related the amount spended compared with the score grades, the data of the schools that spent less on their students present highest overall passing percentage (90%) than the other ones. therefore, we can conclude that is not correlation between the amount expend and the students performance.
  
 ![this is an images](https://github.com/JJF1962/School_District_Analysis.-/blob/main/Resources/Capture%20Score%20by%20school%20spending%201a.PNG)
  
