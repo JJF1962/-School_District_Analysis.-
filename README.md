@@ -24,7 +24,7 @@ Source:schools_complete.csv.ipynb
 ### The School Summary
 Replacing the 9th grader students data in the school summary data frame, the analysis showed that the average math and reading scores not varied and stayed the same, however the overall passing percentage increase from 65.64% to 90.6%  as shown in the step 11 of the charter, as a consequence of the reduction in size of the data sample, causing a positive impact in the schools results, because all the percentages in the total of categories increased as shown in the figures below
 
-![this is and images](https://github.com/JJF1962/School_District_Analysis.-/blob/main/Resources/Capture%209th%20graders.PNG)
+![this is and images](https://github.com/JJF1962/School_District_Analysis.-/blob/main/Resources/Capture%20School%20Summary%201a.PNG)
 
 However, it was noticed, that the schools with less students, showed a better performance in every category, the students not only passed math & reading, also they perfomed well in other assignatures as shown in the two pictures below.
 
