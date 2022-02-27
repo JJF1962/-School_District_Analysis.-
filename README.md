@@ -40,7 +40,7 @@ However, it was noticed, that the schools with less students, showed a better pe
  
  * Scores by School Spending
  
-![this is an images](
+![this is an images](https://github.com/JJF1962/School_District_Analysis.-/blob/main/Resources/Capture%20score%20by%20spending%201.PNG)
  
 ![this is an images](
 
