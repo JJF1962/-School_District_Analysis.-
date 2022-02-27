@@ -38,24 +38,24 @@ However, it was noticed, that the schools with less students, showed a better pe
 ### Replacing the nitth-grade scores affect the following:
  * Math and Reading scores by grade
 
-![this is an images](![image](https://user-images.githubusercontent.com/97784444/155900163-2a6ba102-5efd-47c8-bfc0-a94438bbacda.png)
+![image](https://user-images.githubusercontent.com/97784444/155900163-2a6ba102-5efd-47c8-bfc0-a94438bbacda.png)
 
  
  * Scores by School Spending
 if we review the data in the figure below, we can conclude that is not related the amount spended compared with the score grades, the data of the schools that spent less on their students present highest overall passing percentage (90%) than the other ones. therefore, we can conclude that is not correlation between the amount expend and the students performance.
  
-![this is an images](https://github.com/JJF1962/School_District_Analysis.-/blob/main/Resources/Capture%20score%20by%20spending%201.PNG)
+![this is an images](https://github.com/JJF1962/School_District_Analysis.-/blob/main/Resources/Capture%20Score%20by%20school%20spending%201a.PNG)
  
 
  * Scores by School size
 The avergae school size, For the first two rows of the figure below, shown the good overall passing performance for  the students of the small(90%) and mediam schools (91%), however for the largest school the overall passing drop to 58%  
 
-![this is an images](https://github.com/JJF1962/School_District_Analysis.-/blob/main/Resources/Capture%20Score%20by%20School%20size%202.PNG)
+![this is an images]()
 
  * Scores by School type
  The students of the charter have a better performance than the District, overal passing percentage for the Charter is 90% and for the Distrct Schools only 54%, as shown in figure below.
  
-![this is an images](https://github.com/JJF1962/School_District_Analysis.-/blob/main/Resources/Capture%20Score%20by%20School%20type.PNG)
+![this is an images]()
  
 
  ## Summary
