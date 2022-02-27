@@ -19,3 +19,4 @@ The results were obtained based in the csv data provided by the School District 
 Aditionally, ith was analized the higest performance and the lowes performance schools, the highest perrworfance schools were        and the lower performace schools were
 
 
+[this is an inamges](https://github.com/JJF1962/School_District_Analysis.-/blob/main/Resources/Capture%20High%20performance%20schools.PNG)
