@@ -28,14 +28,15 @@ However, it was noticed, that the schools with less students, showed a better pe
 ### The High and Low performance School
  Aditionally, ith was analized the higest performance and the lowes performance schools, the highest performance schools were Cabrera,Thomas, Griffing, Wilson and Pena         and the lower performace Hhigh schools were Johnson, Hernandez, Huang, Figueroa and Rodriguex as shown in pictures below
 
-[this is an images](https://github.com/JJF1962/School_District_Analysis.-/blob/main/Resources/Capture%20High%20performance%20schools.PNG)
+![this is an images](https://github.com/JJF1962/School_District_Analysis.-/blob/main/Resources/Capture%20High%20performance%20schools.PNG)
 
-[this is an images](https://github.com/JJF1962/School_District_Analysis.-/blob/main/Resources/Captureless%20performance%20schools.PNG)
+![this is an images](https://github.com/JJF1962/School_District_Analysis.-/blob/main/Resources/Captureless%20performance%20schools.PNG)
 
 ### Replacing the nitth-grade scores affect the following:
  * Math and Reading scores by grade
 
-![this is an images](
+![this is an images](https://github.com/JJF1962/School_District_Analysis.-/blob/main/Resources/Capture%20math%20and%20reading%20score%20by%20geade.PNG)
+
  
  * Scores by School Spending
  
