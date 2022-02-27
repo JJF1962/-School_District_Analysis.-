@@ -28,10 +28,6 @@ Replacing the 9th grader students data in the school summary data frame, the ana
 
 However, it was noticed, that the schools with less students, showed a better performance in every category, the students not only passed math & reading, also they perfomed well in other assignatures as shown in the two pictures below.
 
-![this is an image](https://github.com/JJF1962/School_District_Analysis.-/blob/main/Resources/Capture%20Score%20by%20School%20Size.PNG)
-
-![this is an image](https://github.com/JJF1962/School_District_Analysis.-/blob/main/Resources/Capture%20Score%20by%20School%20size%202.PNG)
-
 ### The High and Low performance School
  Aditionally, ith was analized the higest performance and the lowest performance schools, the highest performance schools were Cabrera,Thomas, Griffing, Wilson and Pena         and the lower performace Hhigh schools were Johnson, Hernandez, Huang, Figueroa and Rodriguex as shown in pictures below
 
