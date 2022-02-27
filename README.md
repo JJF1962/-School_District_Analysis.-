@@ -38,7 +38,7 @@ However, it was noticed, that the schools with less students, showed a better pe
 ### Replacing the nitth-grade scores affect the following:
  * Math and Reading scores by grade
 
-![this is an images](https://github.com/JJF1962/School_District_Analysis.-/blob/main/Resources/Capture%20math%20and%20reading%20score%20by%20geade.PNG)
+![this is an images](![image](https://user-images.githubusercontent.com/97784444/155900163-2a6ba102-5efd-47c8-bfc0-a94438bbacda.png)
 
  
  * Scores by School Spending
