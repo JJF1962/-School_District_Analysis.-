@@ -3,10 +3,11 @@
 The objective of this School District Analysis is to analize the data available, evaluate the relation between the students performance, focused in math & reading scores, measuring the  overall passing percentages per students again the budgets and/or amount expended by the School District, aditionally the school board, alerted about a presumption of dishonesty, therefore it was required to replace the math and reading scores for Thomas High School with NaNs while keeping the rest of the data intact; with the consequence that was requested to repeat the analysis perfomed in this module and writte a report to describe how these changes afected the overall analysis.
 
 The class objective was to continue using Python and learn to use Pandas, Jupyter Notebook, with an overview of Anaconda and development enviroments, aditionally we continue working with CSV files and learned a better way to managing largest data to find missing values,  learning and refreshing about data types and variables, clean data, merge data frames, averages, percentages, format & re-order columns, manage calculations, index, count, bins, categorize, group and commit the final code in Git Hub, using Git Bash in my case because I have windows, all learned allow to present the following results. 
+It was used the Loc method to evaluate and select all math and reading scores from the ninth grade, the  comparison operator to retrieve the  rows with "Thomas High School" in the school_name column and to retrive all rows with the "9th grade", the comparison and logical operators to retrieve the rows for reading and math score for Thomas High School 9th graders and identified the NaNs.
 ##  Results
 The results were obtained based in the csv data provided by the School District in two confidential files named Students_complete.csv and Schhols_complete.csv, that was conformed by  a very large data, and no posibile or convenient to be handled with Excel or VBA, therefore the best option was to apply all to learned in the last two modules of CSV, Python, Jupyter Notebook and others tools required to execute the job. we saved the files with a new extension ipynb, that that constitute a file in a notebook document created by Jupyter Notebook, an interactive computational environment that helps scientists manipulate and analyze data using Python . It contains all the content from a Jupyter Notebook web application session, including computation inputs and outputs, mathematical functions, images, and explanatory text (reference. https://fileinfo.com/extension/ipynb#:~:text=An%20IPYNB%20file%20is%20a%20notebook%20document%20created,and%20outputs%2C%20mathematical%20functions%2C%20images%2C%20and%20explanatory%20text.)
 ### The District Summary
-The first analysis, covert to analize and provide a District summary  that consisted into replace the reading and math scores, replacing the 9th grade for reading and math scores at Thomas High School with Nan using the loc method, as shwon in figure below.
+The first analysis, cover  and provide a District summary  that consisted into replace the reading and math scores, replacing the 9th grade for reading and math scores at Thomas High School with Nan using the loc method, as shwon in figure below.
   
 ![this is an image](https://github.com/JJF1962/School_District_Analysis.-/blob/main/Resources/Capture%209th%20grade%20with%20NaN.PNG)  
   
@@ -14,7 +15,7 @@ It was repeated the School District Analysis as required, the sample of data sho
 
 ![this is an image](https://github.com/JJF1962/School_District_Analysis.-/blob/main/Resources/Capture%20performance%20.PNG)
 
-Before the clean-up the average reading score 81.87% and math 78.98% (as Shown in Figure below - source:schools_complete.ipynb), we can said that excersize allow to determine that th reading score has a small variance, increase about 0.1%, however the math score showns a substantial increase of 7.84%
+Before the clean-up the average reading score 81.87% and math 78.98% (as Shown in Figure below - source:schools_complete.ipynb), we can said that excersize allow to determine that the reading score has a small variance, increase about 0.1%, however the math score showns a substantial increase of 7.84%
 
 ![tis is an image](https://github.com/JJF1962/School_District_Analysis.-/blob/main/Resources/Capture%20before%20clean%20up%20%20%25%20pass.PNG)
 Source:schools_complete.csv.ipynb
@@ -25,7 +26,7 @@ Replacing the 9th grader students data in the school summary data frame, the ana
 
 ![this is and images](https://github.com/JJF1962/School_District_Analysis.-/blob/main/Resources/Capture%209th%20graders.PNG)
 
-However, it was noticed, that the schools with less students, showed a better performance in every category, the sutdents not only passed math & reading, also they perfomed well in other assignatures as shown in the two pictures below.
+However, it was noticed, that the schools with less students, showed a better performance in every category, the students not only passed math & reading, also they perfomed well in other assignatures as shown in the two pictures below.
 
 ![this is an image](https://github.com/JJF1962/School_District_Analysis.-/blob/main/Resources/Capture%20Score%20by%20School%20Size.PNG)
 
