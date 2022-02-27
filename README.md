@@ -11,11 +11,11 @@ The first analysis, cover  and provide a District summary  that consisted into r
   
 ![this is an image](https://github.com/JJF1962/School_District_Analysis.-/blob/main/Resources/Capture%209th%20grader%20with%20NaN1.PNG)  
   
-It was repeated the School District Analysis as required, the sample of data shown a total of 15 schools, with a total of 39,170 students, the average math score was 79 and reading 81.9, meaning that 75.5% passed  math, 86.82% passed reading and the overall passing percentage was 65.64% as shown in the figure below.
+It was repeated the School District Analysis as required, the sample of data shown a total of 15 schools, with a total of 39,170 students, the average math score was 79 and reading 81.9, meaning that 75.87% passed  math, 85.65% passed reading and the overall passing percentage was 64.85% as shown in the figure below.
 
-![this is an image](https://github.com/JJF1962/School_District_Analysis.-/blob/main/Resources/Capture%20performance%20.PNG)
+![this is an image](https://github.com/JJF1962/School_District_Analysis.-/blob/main/Resources/Capture%20District%20Summary1.PNG)
 
-Before the clean-up the average reading score 81.87% and math 78.98% (as Shown in Figure below - source:schools_complete.ipynb), we can said that excersize allow to determine that the reading score has a small variance, increase about 0.1%, however the math score showns a substantial increase of 7.84%
+Before the clean-up the average reading score 81.87% and math 78.98% (as Shown in Figure below - source:schools_complete.ipynb), we can said that excersize allow to determine that the reading score has a small variance, increase about 3.78% and 3.05% and  the math score showns a decrease of 7.84%
 
 ![tis is an image](https://github.com/JJF1962/School_District_Analysis.-/blob/main/Resources/Capture%20before%20clean%20up%20%20%25%20pass.PNG)
 Source:schools_complete.csv.ipynb
